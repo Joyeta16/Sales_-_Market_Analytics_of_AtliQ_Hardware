@@ -23,7 +23,7 @@ The primary goal of this project is to analyze AtliQ Hardware's sales and financ
 - Market Performance vs. Target
 - Top 10 Products Based on Sales
 - Top 5 and Bottom 5 Products by Quantity Sold
-- Division-Level Sales Report
+- [Division-Level Sales Report](https://github.com/Joyeta16/Sales_-_Market_Analytics_of_AtliQ_Hardware/blob/main/AtliQ_Hardware_Division-Level%20Sales%20Report.pdf)
 - New Products Launched in 2021
 - Top 5 Marketplaces Based on Sales in 2021
 - Profit and Loss (P&L) Report by Fiscal Years
