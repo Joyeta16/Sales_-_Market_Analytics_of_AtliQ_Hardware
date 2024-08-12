@@ -28,7 +28,7 @@ The primary goal of this project is to analyze AtliQ Hardware's sales and financ
 - Top 5 Marketplaces Based on Sales in 2021
 - [Profit and Loss (P&L) Report by Fiscal Years](https://github.com/Joyeta16/Sales_-_Market_Analytics_of_AtliQ_Hardware/blob/main/AtliQ_Hardware_P%26L%20Report%20by%20Fiscal%20Years.pdf)
 - [P&L Report by Markets in 2021](https://github.com/Joyeta16/Sales_-_Market_Analytics_of_AtliQ_Hardware/blob/main/AtliQ_Hardware_P%26L%20Report%20by%20Markets%20in%202021.pdf)
-- P&L Report by Months
+- [P&L Report by Months](https://github.com/Joyeta16/Sales_-_Market_Analytics_of_AtliQ_Hardware/blob/main/AtliQ_Hardware_P%26L%20Report%20by%20Months.pdf)
 ## Methods Performed
 ### ETL Methodology (Extract, Transform, Load):
 - Data extraction, transformation, and loading were conducted using Power Query Editor from diverse sources to maintain data quality and consistency.
