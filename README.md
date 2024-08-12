@@ -20,7 +20,7 @@ The primary goal of this project is to analyze AtliQ Hardware's sales and financ
 - Align financial planning with strategic goals and instill confidence in the organization's financial outlook.
 ## Report Inclusions
 - [Customer Net Sales Performance](https://github.com/Joyeta16/Sales_-_Market_Analytics_of_AtliQ_Hardware/blob/main/AtliQ_hardware_Customer%20Net%20Sales%20Performance.pdf)
-- [Market Performance vs. Target](https://github.com/Joyeta16/Sales_-_Market_Analytics_of_AtliQ_Hardware/blob/main/AtliQ_hardware_Market%20Performance%20vs.%20Target.pdf)
+- [Market/Country Performance vs. Target](https://github.com/Joyeta16/Sales_-_Market_Analytics_of_AtliQ_Hardware/blob/main/AtliQ_hardware_Market%20Performance%20vs.%20Target.pdf)
 - [Top 10 Products Based on Sales](https://github.com/Joyeta16/Sales_-_Market_Analytics_of_AtliQ_Hardware/blob/main/AtliQ_Hardware_Top%2010%20Products%20Based%20on%20Sales.pdf)
 - [Top 5 and Bottom 5 Products by Quantity Sold](https://github.com/Joyeta16/Sales_-_Market_Analytics_of_AtliQ_Hardware/blob/main/AtliQ_Hardware_Top%205%20and%20Bottom%205%20Products%20by%20Quantity%20Sold.pdf)
 - [Division-Level Sales Report](https://github.com/Joyeta16/Sales_-_Market_Analytics_of_AtliQ_Hardware/blob/main/AtliQ_Hardware_Division-Level%20Sales%20Report.pdf)
