@@ -47,11 +47,11 @@ The primary goal of this project is to analyze AtliQ Hardware's sales and financ
 - Pivot Tables were employed to create insightful reports.
 ### Conditional Formatting:
 - Applied conditional formatting to clearly highlight key figures.
-## Observations
+## Observations and Insights
 ### Top 3 Customers in 2021:
 - Amazon: $82.1M
 - AtliQ Exclusive: $61.1M
-- AtliQ eStore: $53.0M
+- AtliQ e Store: $53.0M
 ### Market Growth:
 - All markets showed significant growth in 2021 compared to 2020, with India and the USA leading the way. However, high estimated targets were not met.
 ### Top Product in 2021:
