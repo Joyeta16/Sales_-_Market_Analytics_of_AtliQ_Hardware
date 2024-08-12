@@ -89,3 +89,5 @@ The primary goal of this project is to analyze AtliQ Hardware's sales and financ
 - Learned to design reports with a focus on user experience, ensuring clarity and empathy in delivering insights.
 - Acquired knowledge of optimized report generation through fine-tuning for improved efficiency and timely delivery.
 - Gained proficiency in creating structured methodologies for developing effective and consistent report-building plans.
+
+---
